@@ -1,0 +1,17 @@
+{
+  "name": "marcosadantas/nfedata",
+  "description": "Pacote para encapsular e extrair informações das notas fiscais",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marcos Dantas",
+      "email": "marcos.adantas@hotmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "NfeData\\": "src/"
+    }
+  }
+}
